@@ -1,1 +1,1 @@
-![Book logo](/DynamicImgGalery/assets/The Last Guardian.png)
+![Book logo](/erad1c8or.github.io/assets/The Last Guardian.png)
