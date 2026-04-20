@@ -1,4 +1,3 @@
-![ezcv logo](https://raw.githubusercontent.com/erad1c8or/test1/assets/TheLastGuardian.png)
-![ezcv logo](https://raw.githubusercontent.com/erad1c8or/test1/main/assets/Geico.png)
-![ezcv logo](https://raw.githubusercontent.com/erad1c8or/test1/assets/Geico.png)
+![Error: assets/Geico.png](https://raw.githubusercontent.com/erad1c8or/test1/main/assets/Geico.png)
+![Error: assets/The Last Guardian.png](https://raw.githubusercontent.com/erad1c8or/test1/main/assets/The Last Guardian.png)
 
